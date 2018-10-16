@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee>
+		<address>India</address>
+		<age>33</age>
+		<empid>393211</empid>
+		<name>Abc</name>
+		<salary>4000.0</salary>
+	</employee>
+	<employee>
+		<address>UK</address>
+		<age>34</age>
+		<empid>393212</empid>
+		<name>XXX</name>
+		<salary>6500.0</salary>
+	</employee>
+</employees>
