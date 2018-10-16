@@ -1,0 +1,4 @@
+#Mon Jan 14 22:57:25 IST 2013
+//com.springsource.sts.config.flow.coordinates\:http\://www.springframework.org/schema/batch\:/springBatch2HelloWorld/src/config/MEMORY-JOBREPOSITORY.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<graph/>
+//com.springsource.sts.config.flow.coordinates\:http\://www.springframework.org/schema/batch\:/springBatch2HelloWorld/src/config/simpleJob.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<graph/>
+eclipse.preferences.version=1
