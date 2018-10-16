@@ -10,6 +10,17 @@ import org.springframework.batch.repeat.RepeatStatus;
  * @author Dinesh Rajput
  *
  */
+
+/*
+To run Spring Batch application:
+1. Open Run Configuration.
+2. Create New instance of Java Application
+3. Define Main class as : "org.springframework.batch.core.launch.support.CommandLineJobRunner"
+4. In argument tab, define program argument as "config/simpleJob.xml mySimpleJob"
+5. Apply and Run.
+*/
+
+
 public class HelloWorldTasklet implements Tasklet {
 	
 	private String message;
