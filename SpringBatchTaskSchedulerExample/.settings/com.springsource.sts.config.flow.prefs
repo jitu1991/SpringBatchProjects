@@ -1,0 +1,3 @@
+#Sun Mar 09 16:44:36 IST 2014
+//com.springsource.sts.config.flow.coordinates\:http\://www.springframework.org/schema/batch\:/SpringBatchTaskSchedulerExample/configure/simple-job.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<graph>\r\n<element clazz\="JobModelElement" type\="job">\r\n<structure end\="2316" endstart\="2304" start\="2033" startend\="2081"/>\r\n<bounds height\="118" width\="132" x\="15" y\="17"/>\r\n</element>\r\n</graph>
+eclipse.preferences.version=1
